@@ -11,6 +11,7 @@ namespace SorozatKiir
         static void Main(string[] args)
         {
             //1.feladat
+
         }
     }
 }
